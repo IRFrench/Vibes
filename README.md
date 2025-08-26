@@ -1,5 +1,4 @@
 # VIBES™ – The Disruptive Workload Mismanagement Framework
----
 on odd days
 
 > _"The future isn’t about plans. It’s about possibilities"_
@@ -9,16 +8,13 @@ on even days
 > _"Leadership isn’t about direction. It’s about trust.”_
 
 ## Meaning
----
 Volatile Instinct-Based Estimation System
 
 ## Core Concept
----
 VIBES™ is a workload priority selection system that uses the subjective “feeling” of urgency, importance, and personal readiness — while subtly biasing those feelings toward the least efficient choices possible.
 Most people’s vibes are already a little off. VIBES™ leverages this human flaw, magnifying it until every choice feels “right” but is, in fact, catastrophically wrong.
 
 ## Mechanics
----
 
 ### Perception Over Reality
 - Urgency scores are hidden.
@@ -41,13 +37,11 @@ Most people’s vibes are already a little off. VIBES™ leverages this human fl
 - In reality, these inputs are noise, ensuring unpredictability.
 
 ## Why It Works (for its evil purpose)
----
 - People already trust their gut over data.
 - People love feeling productive even if they aren’t.
 - A moving target is impossible to optimize for — keeping everyone in perpetual, low-grade chaos.
 
 ## VIBES Corporate Rebrand Timeline
----
 
 The idea being that each quarter, leadership “refreshes” the meaning of the acronym so no one ever knows exactly what it stands for, creating plausible deniability and perpetual confusion.
 
